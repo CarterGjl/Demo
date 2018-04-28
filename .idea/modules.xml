@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CallOfDuty/CallOfDuty.iml" filepath="$PROJECT_DIR$/CallOfDuty/CallOfDuty.iml" />
       <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leader/Leader.iml" filepath="$PROJECT_DIR$/Leader/Leader.iml" />
       <module fileurl="file://$PROJECT_DIR$/State.iml" filepath="$PROJECT_DIR$/State.iml" />
